@@ -1,0 +1,5 @@
+{
+  "name": "音频编辑器",
+  "description": "专业级浏览器端音频编辑器。支持本地文件导入、波形可视化、区域标记及分段导出。",
+  "requestFramePermissions": []
+}
